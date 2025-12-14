@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E6B87A&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pranav+Pradeesh;Student+Developer+from+India;IoT+%7C+Web+%7C+Blockchain+%7C+Game+Dev;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E6B87A&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Inevitable200tech;Full-Stack+%26+Backend+Developer;APIs+%7C+Media+Systems+%7C+Web+Apps;Always+Building%2C+Always+Improving" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/pranav-pradeesh" width="140" style="border-radius:50%;" />
+<img src="https://avatars.githubusercontent.com/Inevitable200tech" width="140" style="border-radius:50%;" />
 
 <br/><br/>
 
-**Student Developer | Internship Seeker**  
-Building real-world projects with curiosity, discipline, and clean code.
+**Full-Stack Developer | Backend & Systems Focused**  
+Building scalable web systems with clean architecture and real-world use cases.
 
 </div>
 
@@ -18,9 +18,11 @@ Building real-world projects with curiosity, discipline, and clean code.
 
 ## 🧠 About Me
 
-I’m **Pranav Pradeesh**, a higher secondary student from India with hands-on experience in building practical projects across **IoT systems, web development, blockchain fundamentals, and game development**.
+I’m **Inevitable200tech**, a developer focused on building **robust backend systems** and **modern web applications**.
 
-I enjoy learning by building real systems — from safety-focused IoT solutions to experimental cryptocurrencies and educational platforms. I’m self-driven, adaptable, and motivated to grow through real-world collaboration and internships.
+I work with **Node.js, MongoDB, and Express** to design APIs that handle media uploads, authentication, admin workflows, and data management. On the frontend, I use **React with Vite** to build fast, maintainable dashboards and user interfaces.
+
+I enjoy working close to the system level when needed, solving architectural problems, and turning complex requirements into clean, reliable code.
 
 ---
 
@@ -29,16 +31,13 @@ I enjoy learning by building real systems — from safety-focused IoT solutions 
 <div align="center">
 
 ### 💻 Languages & Core Tech
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
 
-### 🌐 Web & Tools
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,git,github,linux" />
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,mongodb" />
 
-### 🔧 Other Technologies
-<img src="https://skillicons.dev/icons?i=arduino,godot" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40" />
+### 🛠 Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
 
 </div>
 
@@ -46,30 +45,32 @@ I enjoy learning by building real systems — from safety-focused IoT solutions 
 
 ## 🚀 Projects
 
-### 🛑 Gas Guard  
-**IoT-based gas leakage detection and alert system**  
-- Arduino + Sensors  
-- Focused on safety and real-world application  
+### ⚙️ API Gateway & Media Worker  
+**Backend system for handling uploads, routing, and media storage**  
+- Node.js + Express  
+- MongoDB (metadata, routing, storage control)  
+- Designed for scalability and admin control  
 
-🔗 https://github.com/pranav-pradeesh/GAS-GUARD
+🔗 https://github.com/Inevitable200tech/api_worker2
 
 ---
 
-### 🏫 NMHSS Thirunavaya – School Website  
-**Official school website project**  
+### 🖥️ Admin Media Dashboard  
+**React-based admin interface for managing uploaded content**  
+- React + Vite  
+- Approval / rejection workflow  
+- Clean UI with structured state management  
+
+🔗 *(private / in-progress)*
+
+---
+
+### 🏫 School Media Platform  
+**Public-facing school platform with admin-managed uploads**  
 - HTML, CSS, JavaScript  
-- Clean structure and accessibility  
+- Integrated with backend media APIs  
 
-🔗 https://github.com/pranav-pradeesh/nmhss-project
-
----
-
-### 🪙 NewCoin  
-**Privacy-first cryptocurrency model**  
-- Blockchain fundamentals  
-- ASIC-resistant concept inspired by Bitcoin & Monero  
-
-🔗 https://github.com/pranav-pradeesh/Newcoin
+🔗 https://nmhss.onrender.com
 
 ---
 
@@ -77,9 +78,9 @@ I enjoy learning by building real systems — from safety-focused IoT solutions 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranav-pradeesh&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Inevitable200tech&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-pradeesh&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Inevitable200tech&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
@@ -87,35 +88,34 @@ I enjoy learning by building real systems — from safety-focused IoT solutions 
 
 ## 🎯 Currently Learning
 
-- IoT systems with Arduino & sensors  
-- Web development & modern tooling  
-- Blockchain & cryptography fundamentals  
-- Ethical hacking & bug bounty basics  
-- DevOps concepts (CI/CD, deployment mindset)
+- Backend system design & API architecture  
+- Media storage strategies (object storage, DB hybrids)  
+- Advanced React patterns  
+- DevOps & deployment workflows  
+- Performance & security best practices  
 
 ---
 
 ## 💡 Open to Opportunities
 
-I’m actively looking for:
-- **Software Development Internships**
-- IoT / AI / Web projects
-- Educational & open-source collaborations
+I’m open to:
+- **Backend / Full-Stack Internships**
+- API & platform development work
+- Open-source and collaborative projects
 
-I’m eager to learn, contribute, and grow in a professional environment.
+I enjoy learning fast, building real systems, and contributing meaningfully to production-grade codebases.
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 **Email:** achupradeesh1984@gmail.com  
-- 📞 **Phone:** +91 8848866921  
-- 🔗 **GitHub:** https://github.com/pranav-pradeesh  
+- 📧 **Email:** inevitable200tech@gmail.com  
+- 🔗 **GitHub:** https://github.com/Inevitable200tech  
 
 ---
 
 <div align="center">
 
-✨ *“Learning by building, improving by doing.”* ✨
+✨ *“Build systems that last, not just code that runs.”* ✨
 
 </div>
