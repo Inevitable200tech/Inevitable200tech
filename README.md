@@ -18,7 +18,7 @@ Building scalable web systems with clean architecture and real-world use cases.
 
 ## 🧠 About Me
 
-I’m **Inevitable200tech**, a developer focused on building **robust backend systems** and **modern web applications**.
+I’m **Abhishek.P**, a developer focused on building **robust backend systems** and **modern web applications**.
 
 I work with **Node.js, MongoDB, and Express** to design APIs that handle media uploads, authentication, admin workflows, and data management. On the frontend, I use **React with Vite** to build fast, maintainable dashboards and user interfaces.
 
