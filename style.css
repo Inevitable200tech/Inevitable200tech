@@ -40,8 +40,8 @@ body {
 }
 
 @keyframes floatBg {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(-30px); }
+  from { transform: translateY(0); }
+  to { transform: translateY(-30px); }
 }
 
 .profile {
@@ -49,6 +49,7 @@ body {
   border-radius: 50%;
   border: 3px solid var(--accent);
   z-index: 1;
+  margin-bottom: 16px;
 }
 
 h1, p {
@@ -80,8 +81,6 @@ h2 {
   border-radius: 14px;
   text-decoration: none;
   color: var(--text);
-  position: relative;
-  overflow: hidden;
   transition: transform .3s, box-shadow .3s;
 }
 
@@ -90,7 +89,6 @@ h2 {
   box-shadow: 0 20px 40px rgba(0,0,0,.4);
 }
 
-/* STACK ON HOVER */
 .stack {
   display: flex;
   gap: 10px;
@@ -110,32 +108,7 @@ h2 {
   color: var(--accent);
 }
 
-/* ================= ANIMATIONS ================= */
-.reveal {
-  opacity: 0;
-  transform: translateY(40px);
-  transition: 0.8s ease;
-}
-
-.reveal.active {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-.slide-up {
-  animation: slideUp 1s ease forwards;
-}
-
-.delay-1 {
-  animation-delay: .3s;
-}
-
-@keyframes slideUp {
-  from { opacity: 0; transform: translateY(30px); }
-  to { opacity: 1; transform: translateY(0); }
-}
 /* ================= TECH STACK ================= */
-
 .tech-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -167,13 +140,32 @@ h2 {
   font-size: 14px;
   color: var(--muted);
 }
-.contact-item {
-  display: block;
-  margin-bottom: 12px;
+
+/* ================= ANIMATIONS ================= */
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: 0.8s ease;
 }
 
-.contact-item a {
-  display: inline-block;
-  position: relative;
-  z-index: 1;
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slide-up {
+  animation: slideUp 1s ease forwards;
+}
+
+.delay-1 {
+  animation-delay: .3s;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.contact-item {
+  margin-bottom: 12px;
 }
