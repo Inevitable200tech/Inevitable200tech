@@ -109,7 +109,7 @@ I enjoy learning fast, building real systems, and contributing meaningfully to p
 
 ## 📬 Contact Me
 
-- 📧 **Email:** inevitable200tech@gmail.com  
+- 📧 **Email:** abhishek2007tech@gmail.com  
 - 🔗 **GitHub:** https://github.com/Inevitable200tech  
 
 ---
